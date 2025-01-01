@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Speak Now Driver – Real-Time Voice Translation for Gig Workers</title>
+  <title>Speak Now Driver - Real-Time Voice Translation for Gig Workers</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Example Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600&display=swap" rel="stylesheet">
@@ -292,7 +292,7 @@
 
   <!-- FOOTER -->
   <footer>
-    <p>&copy; 2024 Speak Now, Driver. Helping gig workers break language barriers - one delivery at a time.</p>
+    <p>&copy; 2025 Speak Now, Driver. Helping gig workers break language barriers - one delivery at a time.</p>
   </footer>
 
 </body>
