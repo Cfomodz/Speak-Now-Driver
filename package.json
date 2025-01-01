@@ -1,0 +1,36 @@
+{
+  "name": "speak-now-driver",
+  "version": "1.0.0",
+  "description": "Automated Real Time Translation over Phone Call",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cfomodz/Speak-Now-Driver.git"
+  },
+  "keywords": [
+    "language",
+    "english",
+    "foreign",
+    "driver",
+    "gig"
+  ],
+  "author": "David Ashby",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Cfomodz/Speak-Now-Driver/issues"
+  },
+  "homepage": "https://github.com/Cfomodz/Speak-Now-Driver#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^6.7.0",
+    "@google-cloud/text-to-speech": "^5.7.0",
+    "@google-cloud/translate": "^8.5.0",
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "twilio": "^5.4.0"
+  }
+}
