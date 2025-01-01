@@ -199,7 +199,7 @@
           Includes automatic call translation<br>
           + 20 free minutes monthly<br>
           Then <strong>$0.09/min</strong> afterwards*
-            <!-- *Add tooltip saying something to the effect of, "But this is rarely needed for most drivers"
+          <!-- *Add tooltip saying something to the effect of, "But this is rarely needed for most drivers" -->
         </p>
         <!-- Replace with your sign-up link / CTA -->
         <a href="#" class="btn">Get Basic</a>
@@ -213,7 +213,7 @@
           Perfect for non-native speakers who need<br>
           more than help with just a few orders per day<br>
           Enjoy <strong>$0.045/min</strong> on all calls<br>
-          No monthly call limit by Lu got g am
+          No monthly call limit
         </p>
         <!-- Replace with your sign-up link / CTA -->
         <a href="#" class="btn">Go Pro</a>
@@ -228,24 +228,24 @@
       <h3>How Much Does It Cost?</h3>
       <div class="cost">
         <div class="side-image">
-      <!-- Replace with an Envato stock image: "" -->
-      <img 
-        src="https://via.placeholder.com/250x150.png?text=Side+Image" 
-        alt="Envato stock image:food delivery driver delivering food to customer" />
-    </div>
+          <!-- Replace with an Envato stock image: "" -->
+          <img 
+            src="https://via.placeholder.com/250x150.png?text=Side+Image" 
+            alt="Envato stock image: food delivery driver delivering food to customer" />
+        </div>
         <p>
-          While we've just outlined the <i>price</i>, the actual cost of <strong>Speak Now, Driver</strong> to you may suprise you.
+          While we've just outlined the <i>price</i>, the actual cost of <strong>Speak Now, Driver</strong> to you may surprise you.
         </p>
         <h4>Speak Now, Driver Can Pay For Itself</h4>
         <p>
           Customer calls are rare, but important.
-          The average delivery will be completed wothout customer contact. When customer contact is needed due to a problem experienced on the driver's side, a translator app can be used to easily reach out to the custimer and translate their reply.
-          Existing solutions work great for most situations, but an unexpected call from a customer through the delivery app represents a meaningful issue for a non English speaker.
-          Every call represents a problem the customer is experiencing: they entered the wrong address, forgot a detail of their order, need additional condaments or utensils; they need something, and they need it urgently enough that they are calling you.
-          Every call is a problem that can either be solved for the customer, hopfully resulting in an exceptional experience, or it will be a problem that will lead to firther frustration for them if you are not able to handle their call, even when that's due to an uncontrollable language barrier.
-          Every call, in turn, represents a situation that can result in an opportunity to earn an extra tip, or one that can end up in receiving a negative review. In extream situations this can even lead to a driver being reported by the customer.
-          Most people are understanding, reasonable, and will muddle through the language barrier or switch to text messaging. Others arent as accepting or accomodatong, and can take their existing frustration with the order (the reason they're trying to call in the first place) out on the driver in the form of a negative review.
-          If negative experiences stack up, even if only occationally, it can and does affect overall earning potential:
+          The average delivery will be completed without customer contact. When customer contact is needed due to a problem experienced on the driver's side, a translator app can be used to easily reach out to the customer and translate their reply.
+          Existing solutions work great for most situations, but an unexpected call from a customer through the delivery app represents a meaningful issue for a non-English speaker.
+          Every call represents a problem the customer is experiencing: they entered the wrong address, forgot a detail of their order, need additional condiments or utensils; they need something, and they need it urgently enough that they are calling you.
+          Every call is a problem that can either be solved for the customer, hopefully resulting in an exceptional experience, or it will be a problem that will lead to further frustration for them if you are not able to handle their call, even when that's due to an uncontrollable language barrier.
+          Every call, in turn, represents a situation that can result in an opportunity to earn an extra tip, or one that can end up in receiving a negative review. In extreme situations, this can even lead to a driver being reported by the customer.
+          Most people are understanding, reasonable, and will muddle through the language barrier or switch to text messaging. Others aren't as accepting or accommodating, and can take their existing frustration with the order (the reason they're trying to call in the first place) out on the driver in the form of a negative review.
+          If negative experiences stack up, even if only occasionally, it can and does affect overall earning potential:
           <ol>
             <li>possibly losing that delivery's base pay</li>
             <li>likely losing that delivery's tip</li>
@@ -255,25 +255,25 @@
           Conversely, if a user is having a hard time with their order (likely due to a mistake they made), they are <strong>often</strong> excited to give you an additional tip - either in the app or in person upon delivery along with an almost guaranteed 5-star rating on every metric.
           It's hard to know exactly what a customer "would have done" if things had gone differently with an order.
           <ul>
-            <li>How much extra would they have tipped if a driver did understand what they were calling about and was able to help - when in reality they didnt.
-            <li>How upset they would have been in a situation where a driver wasnt able to understand their concern on a call - when in reality they did and helped out.
-            <li>How much more or less they would have tipped had a driver been able to use live translation vs having to switch to texting despite their urgent request. 
+            <li>How much extra would they have tipped if a driver did understand what they were calling about and was able to help - when in reality they didn't.</li>
+            <li>How upset they would have been in a situation where a driver wasn't able to understand their concern on a call - when in reality they did and helped out.</li>
+            <li>How much more or less they would have tipped had a driver been able to use live translation vs having to switch to texting despite their urgent request.</li>
           </ul>
-          but ultimately if we just say every one of these interactions could result in an overwhelmingly bad experience costing you reviews and tips, or result in a supprisingly positive experience where you go the extra mile to understand and then meet their needs; earning a great review and often additional tips, then its easy to see handling these situations with care is worth real money.
-          </p>
+          but ultimately if we just say every one of these interactions could result in an overwhelmingly bad experience costing you reviews and tips, or result in a surprisingly positive experience where you go the extra mile to understand and then meet their needs; earning a great review and often additional tips, then it's easy to see handling these situations with care is worth real money.
+        </p>
       </div>
       <div class="value">
         <h4>How about a dollar?</h4>
         <p>
-          we are pretty confident its more than a dollar, like a lot more, but let's assume it's a just dollar. lets assume you need to use the service 0 times most days, once a week on average. That's $4 a month. We charge $2.99.
-          We think it's actually more like $20-$140 a month in value if you're delivering part time (One to two 2-3 min phone calls per week), but we wanted to make this service accessible to even infrequent gig workers experiencing this problem.
+          We are pretty confident it's more than a dollar, like a lot more, but let's assume it's just a dollar. Let's assume you need to use the service 0 times most days, once a week on average. That's $4 a month. We charge $2.99.
+          We think it's actually more like $20-$140 a month in value if you're delivering part-time (One to two 2-3 min phone calls per week), but we wanted to make this service accessible to even infrequent gig workers experiencing this problem.
           Further, we wanted to underestimate so much that it's clear to you we're trying to help you make <i>you</i> more money, and not us wanting to take money out of the hands of gig workers.
-          Finally, if you find yourself running out of included minutes, thats okay! The more calls you're taking, the more you will be earning from the value it adds to your service as a driver. Additional minutes are just $1 and never expire! 
+          Finally, if you find yourself running out of included minutes, that's okay! The more calls you're taking, the more you will be earning from the value it adds to your service as a driver. Additional minutes are just $1 and never expire! 
         </p>
       </div>
       <div class="value-per-call">
         Base Pay + Tip (not lost) | $0.70
-        <!--Tooltip: assuming just a 1 in 10 chance of an order being canceled, where all 10 of those orders are the kind requiring a call from a customer and an average $7.00 base pay + tip amount -->
+        <!-- Tooltip: assuming just a 1 in 10 chance of an order being canceled, where all 10 of those orders are the kind requiring a call from a customer and an average $7.00 base pay + tip amount -->
         Tip increase (current order) | $2.00
         Priority Pay (App Incentive) - averaged | $0.50
         Order availability - averaged | $0.25
@@ -281,7 +281,7 @@
       </div>
       <div class="value-chart">
         deliveries / day/week | usage | cost | value | net gains
-        dormant | 0 calls | $2.99 | $1 (tooltip needed, or something more obvious - free pack of non expiring minutes added to their account) | ($1.99) cost / mo
+        dormant | 0 calls | $2.99 | $1 (tooltip needed, or something more obvious - free pack of non-expiring minutes added to their account) | ($1.99) cost / mo
         intermittent | ~1 call / mo | $2.99 | ~$3.40 | ~Free
         4 deliveries / day | 2 calls / mo | $2.99 | $6.80 | $3.81*
         16 / day | 1-2 calls / week | $2.99 / mo | $27.60 | $24.61
